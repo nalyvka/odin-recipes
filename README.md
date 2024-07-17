@@ -1,1 +1,2 @@
-# odin-recipes
+# a project where a index page is established with links to three sub directories/webpages; whereby each page is given an image, description, an unordered list of ingredients, and a organized list of instructions
+# applicaton of git commit rules at https://cbea.ms/git-commit/
