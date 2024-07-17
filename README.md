@@ -1,3 +1,3 @@
-A project where an index page is established with links to three sub directories/webpages; whereby each page is given an image, description, an unordered list of ingredients, and a ordered list of instructions.
+Index page established with links to three sub directories/webpages; where each page is given an image, description, an unordered list of ingredients, an ordered list of instructions, and an appended citation for each recipe 
 
 An applicaton of git commit rules at https://cbea.ms/git-commit/
